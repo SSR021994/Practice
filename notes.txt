@@ -1,2 +1,0 @@
-This is my First Repository!
-Now we can create our Repository by various commands:-
